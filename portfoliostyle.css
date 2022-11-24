@@ -1,0 +1,54 @@
+body{
+  font-family: 'Oswald', sans-serif;
+  background-image: linear-gradient(#D5D7DC, #3A3B3C);
+  color: white;
+}
+
+ .Title{
+  /* filter: blur(3px); */
+  text-align: center;
+  background-image: url("title bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 300px 0;
+  color: white;
+}
+.fimage{
+  width: 50%;
+}
+.Aboutme{
+  text-align: center;
+  padding: 3rem 0;
+}
+.aboutmetxt{
+  font-size: 25px;
+}
+.attributes{
+  padding: 3rem 0;
+}
+.att{
+  text-align: center;
+}
+.Contact{
+  text-align:center;
+}
+.ssbutton{
+  margin: 2rem;
+}
+.projects{
+  text-align: center;
+}
+.tab{
+text-align: center;
+padding: 75px;
+background-color: white;
+border-radius: 15%;
+color: black;
+}
+.srmimg1{
+  background-image: url("srmimg1.jfif");
+  background-size: cover;
+}
+.iconimg{
+  width: 15%;
+}
